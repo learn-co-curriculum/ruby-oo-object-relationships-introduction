@@ -1,4 +1,4 @@
-# Introduction to Object Relationships in Ruby
+# Introduction to Object Relationships
 
 So far, we've mainly worked with classes that do not play well with other custom
 classes. In other words, we've defined classes that create objects that do not
